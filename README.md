@@ -11,7 +11,8 @@ Este proyecto consiste en un reloj analógico interactivo construido con HTML, C
 
 ## Capturas de Pantalla
 
-![image](https://github.com/user-attachments/assets/c3a49b36-b8db-40d4-babb-37972664836a)
+![image](https://github.com/user-attachments/assets/533da7d6-29f1-4d45-9a54-734e9168b6bf)
+
 
 ## Tecnologías Utilizadas
 
