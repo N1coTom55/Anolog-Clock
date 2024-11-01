@@ -10,9 +10,8 @@ Este proyecto consiste en un reloj analógico interactivo construido con HTML, C
 - **Responsive**: Diseño adaptable a diferentes tamaños de pantalla.
 
 ## Pagina para ver el proyecto
-   ```sh
+
       Proyecto: https://n1cotom55.github.io/Anolog-Clock/
-   ```
 
 ## Tecnologías Utilizadas
 
