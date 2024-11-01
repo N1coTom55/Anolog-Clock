@@ -9,11 +9,6 @@ Este proyecto consiste en un reloj analógico interactivo construido con HTML, C
 - **Animaciones**: Efectos de burbujas y una animación estilo lámpara de lava para un aspecto visual más atractivo.
 - **Responsive**: Diseño adaptable a diferentes tamaños de pantalla.
 
-## Capturas de Pantalla
-
-![image](https://github.com/user-attachments/assets/533da7d6-29f1-4d45-9a54-734e9168b6bf)
-
-
 ## Tecnologías Utilizadas
 
 - HTML
